@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>Neurist Tourist Journalism</title>
-    <link>index.html</link>
+    <link>https://bimai6.github.io/</link>
     <description>Specialized agency covering worldwide tourism</description>
     <language>en</language>
     <pubDate>Sun, 28 Jan 2024 17:00:00 GMT</pubDate>
     <lastBuildDate>Tue, 30 Jan 2024 01:00:00 GMT</lastBuildDate>
-    <managingEditor>mariolebgar@alumnos.cei.es</managingEditor>
-    <webMaster>mariolebgar@alumnos.cei.es</webMaster>
+    <managingEditor>mariolebgar@gmail.com</managingEditor>
+    <webMaster>mariolebgar@gmail.com</webMaster>
     <generator>Sublime Text 3</generator>
 
     <item>
@@ -16,7 +16,7 @@
       <link>https://www.unwto.org/un-tourism-news-international-tourism-to-end-2023-close-to-90-of-pre-pandemic</link>
       <description>The latest UNWTO data shows that international tourism has almost completely recovered from the unprecedented crisis of COVID-19 with many destinations reaching or even exceeding pre-pandemic arrivals and receipts</description>
       <pubDate>Sun, 28 Jan 2024 18:30:00 GMT</pubDate>
-      <guid>TourismRecovered</guid>
+      <guid>RecoveredUnprecedent</guid>
     </item>
 
     <item>
