@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.background__blur{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-image: url("https://technocio.com/wp-content/uploads/2021/07/viajes-turismo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 300ms;
+    filter: blur(5px);
+}
+
+.table-container{
+    left: 20%;
+    margin-top: 30px;
+    display: block;
+    background-color: #ffffff;
+    position: absolute;
+    border-radius: 10px;
+    transition: all 300ms;
+    z-index: 10;
+    text-align: center;
+    max-height: 900px;
+    overflow-y: scroll;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead{
+    background-color: #59940F;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+tr:hover{
+    background-color: #91A07E;
+    color: white;
+}
+
+th, td{
+    padding: 20px;
+}
+
+th{
+    background-color: #59940F;
+    position: sticky;
+    top: 0px;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.nombre-hotel{
+    font-family:'Bebas-Neue', sans-serif;
+    color: #961B03;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.nombre-hotel:hover{
+    color: white;
+}
+
+button{
+    width: 80px;
+    background-color: #961B03;
+    color: white;
+    cursor: pointer;
+    transition: all 300ms;
+}
+
+.normal-button:hover{
+    background-color: #A56154;
+    color: black;
+}
+
+#disculpas:hover{
+    background-color: #FA67E5;
+    color: white;
+}
+

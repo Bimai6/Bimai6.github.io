@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Neurist Tourist Journalism</title>
+    <link>index.html</link>
+    <description>Specialized agency covering worldwide tourism</description>
+    <language>en</language>
+    <pubDate>Sun, 28 Jan 2024 17:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2024 01:00:00 GMT</lastBuildDate>
+    <managingEditor>mariolebgar@alumnos.cei.es</managingEditor>
+    <webMaster>mariolebgar@alumnos.cei.es</webMaster>
+    <generator>Sublime Text 3</generator>
+
+    <item>
+      <title>International tourism to end 2023 close to 90% of pre-pandemic levels</title>
+      <link>https://www.unwto.org/un-tourism-news-international-tourism-to-end-2023-close-to-90-of-pre-pandemic</link>
+      <description>The latest UNWTO data shows that international tourism has almost completely recovered from the unprecedented crisis of COVID-19 with many destinations reaching or even exceeding pre-pandemic arrivals and receipts</description>
+      <pubDate>Sun, 28 Jan 2024 18:30:00 GMT</pubDate>
+      <guid>TourismRecovered</guid>
+    </item>
+
+    <item>
+      <title>Towards COP28 and building skills</title>
+      <link>https://www.unwto.org/towards-cop28-and-building-skills-un-tourism-news-74</link>
+      <description>UNWTO, in joint collaboration with NOAH Regen, has taken a further step forward in rethinking tourism financing with the launch of the UN NetZero Facility and Re-PLANET Capital Fund Ecosystem.</description>
+      <pubDate>Mon, 29 Jan 2024 09:30:00 GMT</pubDate>
+      <guid>UNWTOFinancing</guid>
+    </item>
+
+    <item>
+      <title>Transforming Tourism Through Education and Youth Employment</title>
+      <link>https://www.unwto.org/un-tourism-news-transforming-tourism-through-education-and-youth-employment</link>
+      <description>UNWTO celebrated the biggest Ministers Summit on record as it brought tourism leaders together on the opening day of the World Travel Market in London to focus on education and skills development.</description>
+      <pubDate>Mon, 29 Jan 2024 20:15:00 GMT</pubDate>
+      <guid>EducationEmployment</guid>
+    </item>
+
+    <item>
+      <title>Investing in Tourism means Investing in a more Sustainable Future</title>
+      <link>https://www.unwto.org/un-tourism-news-investing-in-tourism-means-investing-in-a-more-sustainable-future</link>
+      <description>The stage is all set for World Tourism Day on 27 September. Under the theme "Tourism and Green Investments", this year's official celebration will be hosted by the Kingdom of Saudi Arabia, in its capital city, Riyadh. The celebrations will be the biggest and most impactful since the Day was first held back in 1980, with hundreds of high-level tourism leaders to join in person.</description>
+      <pubDate>Tue, 30 Jan 2024 01:00:00 GMT</pubDate>
+      <guid>TourismInvesting</guid>
+    </item>
+
+  </channel>
+</rss>

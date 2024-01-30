@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Journey Seeker</title>
+		<link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/3009/3009710.png">
+		<link rel="stylesheet" type="text/css" href="pagina2.css">
+	</head>
+	<body>
+		<div class="background__blur"></div>
+		<div class="overall-container">
+			<p class="title">To proceed with your booking, you will have to fill in the following information:</p>
+			<form>
+				<label for="uName">Name:</label> <br>
+				<input type="text" id="uName" name="uName"> <br>
+				<label for="uSurname">Surname(s):</label> <br>
+				<input type="text" id="uSurname" name="uSurname"> <br>
+				<label for="uDni">DNI:</label> <br>
+				<input type="text" id="uDni" name="uDni"> <br>
+				<label for="uEntryDate" id="laber-entry">Entry date:</label> <br>
+				<input type="date" id="uEntryDate" name="uEntryDate"
+				value="2023-11-01" /> <br>
+				<label for="uDepartureDate" id="label-departure">Departure date:</label> <br>
+				<input type="date" id="uDepartureDate" name="uDepartureDate"
+				value="2023-11-01" /> <br>
+				<p class="reasons">Reasons for the trip:</p>
+				<input type="radio" name="uReasons" id="workingTrip" value="Working trip">
+				<label for="workingTrip">Working trip</label> <br>
+				<input type="radio" name="uReasons" id="familyTrip" value="Family trip">
+				<label for="familyTrip">Family trip</label> <br>
+				<input type="radio" name="uReasons" id="friendlyTrip" value="Friendly trip">
+				<label for="friendlyTrip">Friendly trip</label> <br>
+				<input type="radio" name="uReasons" id="othersTrip" value="Others">
+				<label for="othersTrip">Others</label> <br>
+				<br>
+				<input type="checkbox" name="acceptTerms" id="acceptTerms" value="Agree">
+				<label for="acceptTerms">I agree to the terms and conditions</label> <br>
+			</form>
+			<button onclick="location.href='pagina3.html'">Send</button>
+		</div>
+	</body>
+</html>

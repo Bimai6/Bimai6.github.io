@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Journey Seeker</title>
+		<link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/3009/3009710.png">
+		<script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="pagina1.css">
+	</head>
+	<body>
+		<input type="checkbox" id="event-click">
+    	<label for="event-click" title="Open body" class="btn__open-body">
+        	<i class="fas fa-chevron-down"></i>
+    	</label>
+    	<div class="background__blur"></div>
+    	<div class="overall-container">
+			<div class="overall-cross">
+				<label for="event-click">X</label>
+			</div>
+			<div class="overall-body">
+				<div class="both-headers">
+					<h1 class="header">Journey Seeker</h1>
+					<h3 class="sub-header">Search and go!</h3>
+				</div>
+				<form class="form">
+					<label for="sDate" class="label_date">Select a date:</label> <br>
+					<input type="date" id="sDate" name="sDate" class="input" 
+					value="2023-11-01" /> <br>
+					<label for="sPlace" class="label">Select a place:</label> <br>
+					<input type="text" id="sPlace" name="sPlace" class="input"> <br>
+				</form>
+				<button onclick="location.href='tabla.html'" class="false-submit"> Search</button>
+			</div>
+			<div class="rss_container">
+				<button class="rss_button" onclick="">
+					<img class= "rss_image" src="https://cdn-icons-png.flaticon.com/512/56/56992.png">
+				</button>
+			</div>
+		</div>
+	</body>
+</html>
